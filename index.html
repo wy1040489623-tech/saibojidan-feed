@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>订阅赛博鸡蛋 · 每日 AI 福利</title>
+<style>
+  :root{--bg:#F4F1E9;--card:#FFFDF7;--ink:#0C0A07;--ink2:#4A443A;--ink3:#827A6C;--line:rgba(12,10,7,.12);--accent:#C6F24E;--deep:#5F7A12}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;padding:36px 20px 60px}
+  main{max-width:720px;margin:0 auto}
+  .badge{display:inline-block;background:#EFEAD9;border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:13px;color:var(--ink2)}
+  h1{font-size:30px;margin:16px 0 8px;letter-spacing:-.02em}
+  .sub{color:var(--ink2);margin:0 0 26px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px;margin:14px 0;box-shadow:0 16px 36px -26px rgba(34,28,16,.45)}
+  h2{font-size:17px;margin:0 0 10px}
+  .url{display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:#171512;color:#EDE7DA;border-radius:12px;padding:12px 14px;font:13px/1.5 ui-monospace,Consolas,monospace;word-break:break-all}
+  .url code{flex:1;min-width:220px}
+  button{background:var(--accent);color:#101008;border:0;border-radius:9px;padding:8px 14px;font-size:13px;font-weight:700;cursor:pointer}
+  ol{margin:0;padding-left:22px;color:var(--ink2)}
+  li{margin:7px 0}
+  .readers{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 0;padding:0;list-style:none}
+  .readers li{background:#EFEAD9;border:1px solid var(--line);border-radius:8px;padding:4px 10px;font-size:13px;color:var(--ink2);margin:0}
+  .note{font-size:13.5px;color:var(--ink3);margin:10px 0 0}
+  a{color:var(--deep)}
+</style>
+</head>
+<body>
+<main>
+  <span class="badge">赛博鸡蛋 · RSS 订阅</span>
+  <h1>让每期蛋报自己找到你</h1>
+  <p class="sub">订阅一次，以后每天的新一期会自动出现在你的阅读器里，不用再翻 B 站或点飞书。</p>
+
+  <div class="card">
+    <h2>订阅地址</h2>
+    <div class="url"><code id="feed">https://wy1040489623-tech.github.io/saibojidan-feed/feed.xml</code><button onclick="navigator.clipboard.writeText(document.getElementById('feed').textContent).then(()=>this.textContent='已复制')">复制</button></div>
+    <p class="note">把这个地址粘贴到任意 RSS 阅读器的「添加订阅」里即可。</p>
+  </div>
+
+  <div class="card">
+    <h2>三步订阅</h2>
+    <ol>
+      <li>复制上面的订阅地址；</li>
+      <li>打开你常用的 RSS 阅读器，选择「添加订阅 / Add feed」；</li>
+      <li>粘贴地址并确认。以后每期更新会自动出现。</li>
+    </ol>
+    <ul class="readers"><li>Follow</li><li>Feedly</li><li>Inoreader</li><li>NetNewsWire</li><li>Reeder</li><li>Readwise Reader</li></ul>
+  </div>
+
+  <div class="card">
+    <h2>你会收到什么</h2>
+    <p style="margin:0;color:var(--ink2)">每期一条：当天的三条重点 + 完整清单与官方入口的飞书链接。想看细节再点飞书，不想看细节读完三条就够。</p>
+    <p class="note">阅读器一般每隔十几分钟到一小时自动取一次更新；想第一时间收到提醒，在阅读器里把本订阅的通知打开。</p>
+  </div>
+
+  <p class="note">返回 <a href="https://saibojidan.pages.dev/">赛博鸡蛋主页</a></p>
+</main>
+</body>
+</html>

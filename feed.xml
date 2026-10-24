@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>赛博鸡蛋 · 每日 AI 福利</title>
+    <link>https://wy1040489623-tech.github.io/saibojidan-feed/</link>
+    <atom:link href="https://wy1040489623-tech.github.io/saibojidan-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <description>每天更新国内外可领的 AI 福利：三条重点 + 完整清单入口。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 24 Oct 2026 10:37:27 GMT</lastBuildDate>
+    <item>
+      <title>每天1亿Token免费，星火4B限免【赛博鸡蛋 10.24】</title>
+      <link>https://www.bilibili.com/video/BV1icHA6RE2Z</link>
+      <guid isPermaLink="false">deals-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 01:39:40 GMT</pubDate>
+      <description>1. 七牛云：Conatus 融合模型每日免费 1 亿 Token，实名登录即可用（值表：1 亿 Token/天）
+2. 科大讯飞星火：4B 端侧模型限时免费，可在线调 API 或下载权重本地跑（值表：0 元/百万 tokens）
+3. AWS：社交账号直接开 Studio；免信用卡官方限定「大多数情况下」（值表：免绑卡 限大多数情况）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月23日赛博鸡蛋：语音首月折扣与免费决策模型</title>
+      <link>https://www.bilibili.com/video/BV1kEns6fEXr</link>
+      <guid isPermaLink="false">deals-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 01:41:51 GMT</pubDate>
+      <description>1. ElevenLabs：Starter 首月 1 美元（原价 6 美元/月），含 3 万 credits/月与商用许可（值表：1 美元/首月）
+2. Vercel AI Gateway：Baseten Mammoth-1 / Elephant-1 在 Vercel AI Gateway 0 扣费调用（值表：0 元）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月22日赛博鸡蛋：免费编码模型与训练额度</title>
+      <link>https://www.bilibili.com/video/BV1tCnC6sEYY</link>
+      <guid isPermaLink="false">deals-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 01:41:14 GMT</pubDate>
+      <description>1. OpenRouter / OpenCode：开源编码模型 Flint 40B，OpenRouter 与 OpenCode 都能 0 扣费调用（值表：0 元）
+2. Fireworks AI：Muse Glimmer 30B 的 SFT 训练 0 扣费至 11-30，不用绑卡（值表：0 元训练）
+3. Runway：Kling 4.0 生成的 credit 成本减 25% 至 11-30（值表：25 % 折扣）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月21日赛博鸡蛋：2 亿 Tokens 与每日免费额度</title>
+      <link>https://www.bilibili.com/video/BV1jonq6HELS</link>
+      <guid isPermaLink="false">deals-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 04:36:56 GMT</pubDate>
+      <description>1. 智谱 AutoClaw：登录 AutoClaw 领 2 亿 Tokens（20,000 积分），7 天内有效（值表：2 亿 Tokens）
+2. 华为云码道：每日 1,000 万 Token，登录即用、当日 0 点清零（值表：1000 万 Token/天）
+3. 火山引擎方舟：deepseek-v4.1-flash-economy 抵扣 5 折、可用配额 200%（值表：5 折）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月20日赛博鸡蛋：新客额度、免费模型与视频折扣</title>
+      <link>https://www.bilibili.com/video/BV1LUJf6VEST</link>
+      <guid isPermaLink="false">deals-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 05:13:07 GMT</pubDate>
+      <description>1. 超算互联网 SCNet MaaS：新用户注册领 1000 万 Token；新客 0.1 元买 5000 万 Token 量包（值表：0.1 元）
+2. OpenRouter：17 个限免模型，新增 MiniMax M3.1 Flash 1M 上下文（值表：17 个限免模型）
+3. fal：FLUX 3 Max 视频生成，720p 按输出秒计费（值表：0.0425 美元/秒）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月19日赛博鸡蛋：网页抓取接口与每日编程积分</title>
+      <link>https://www.bilibili.com/video/BV1xFnE6mEoR</link>
+      <guid isPermaLink="false">deals-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 04:42:34 GMT</pubDate>
+      <description>1. TinyFish：Search 每小时 500 次、Fetch 每天 1,000 个 URL，均按 0 美元计费（值表：）
+2. 阿里 Qoder CN：个人用户每天领 100 通用 Credits，30 天内有效（值表：）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月18日赛博鸡蛋：免费模型接口与全年学生额度</title>
+      <link>https://www.bilibili.com/video/BV1gqnu6aEhT</link>
+      <guid isPermaLink="false">deals-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 15:35:56 GMT</pubDate>
+      <description>1. Bolt：Builders Week 免费周末：全账号可用 GLM 5.3 Flash（值表：）
+2. AMD Radeon Cloud：Token Factory 共享模型 API 免费，不扣 credits（值表：）
+3. Kiro：学生计划：指定大学每月 1,000 credits，免费一年（值表：）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月17日赛博鸡蛋：国内 22 条 + 国外 34 条 AI 福利</title>
+      <link>https://www.bilibili.com/video/BV1Y8Jv6MEKg</link>
+      <guid isPermaLink="false">deals-2026-10-17</guid>
+      <pubDate>Fri, 16 Oct 2026 17:03:54 GMT</pubDate>
+      <description>1. ElevenLabs：首月 1 美元享 3 万字符额度，支持商用与声音克隆，10 月 18 日截止（值表：约 1 美元/月）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月16日赛博鸡蛋：两款免费模型与学生临期提醒</title>
+      <link>https://www.bilibili.com/video/BV1piJ46wEcr</link>
+      <guid isPermaLink="false">deals-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 13:47:54 GMT</pubDate>
+      <description>1. OpenCode：GLM-5.3-Flash 今日免费上架，DeepSeek V4.1 Flash 昨日上架，限时零成本调用（值表：GLM+DeepSeek）
+2. Mistral：认证学生可享 Education Plan 学生价 $5.99/月（原价 $14.99），每月送 15 美元 API 额度（值表：$5.99/月+$15/月）
+3. ElevenLabs：Starter 首月 1 美元 10-18 截止，次月按 6 美元续订（值表：首月 1 美元）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月15日赛博鸡蛋：编码订阅额度与两处免费额度</title>
+      <link>https://www.bilibili.com/video/BV14BJy69Ep1</link>
+      <guid isPermaLink="false">deals-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:36 GMT</pubDate>
+      <description>1. Command Code：GOAT 10 美元/月含 80 美元额度（另加处理费），Go 档不含 API 访问（值表：80 美元）
+2. 腾讯云 TokenHub：新用户在产品页零门槛领 100 万 tokens 试用大模型；模型与有效期未写（值表：100 万）
+3. AWS：新客户用社交账号免注册开 Studio，免绑卡按 Free Tier 得额度（值表：免绑卡）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月14日赛博鸡蛋：多模态免费模型、编程助手限免与百万额度</title>
+      <link>https://www.bilibili.com/video/BV1mypy68EKH</link>
+      <guid isPermaLink="false">deals-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 04:54:35 GMT</pubDate>
+      <description>1. 智谱 BigModel：注册即可调用多款免费模型，涵盖文本、视觉、图像与视频；Batch API调用享五折，免费档有并发限制（值表：多款免费）
+2. 阿里 Qoder CN：个人版选用Qwen3.8-Flash计费系数为零，不扣积分；活动已延期，企业版与团队版不适用（值表：不扣积分）
+3. 腾讯混元大模型：首次开通混元生文赠送100万Token资源包，1年有效；需个人实名认证，耗尽后不自动转后付费（值表：100万）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月13日赛博鸡蛋：新客1000万Token、免费设计工具</title>
+      <link>https://www.bilibili.com/video/BV1FKpB6AEB4</link>
+      <guid isPermaLink="false">deals-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 10:07:06 GMT</pubDate>
+      <description>1. 超算互联网 SCNet MaaS：首次注册用户：免费1000万Token，指定模型首单0.1元；限量、30天有效，免费额度耗尽后继续调用扣现金余额（值表：1000万）
+2. Affinity by Canva：免费Canva账号可用完整修图、矢量与排版工具；支持中文，适合封面和海报，生成式AI需高级方案（值表：免费）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月12日赛博鸡蛋：Runway免卡送点、Zed免费预测</title>
+      <link>https://www.bilibili.com/video/BV1xkp96XEhC</link>
+      <guid isPermaLink="false">deals-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 12:37:23 GMT</pubDate>
+      <description>1. Runway：免费档送一次性 125 credits 永不过期，免绑信用卡（值表：一次性125点不过期）
+2. Zed：个人版长期免费，每月含 2000 次代码预测，支持自带各家 API Key（值表：长期免费含2000次预测）
+3. Cohere：每月免信用卡赠 1,000 次 API 调用，覆盖 Command R 与 Rerank（值表：每月千次试用API）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月11日赛博鸡蛋：Supermaven代码补全、Tavily千次API</title>
+      <link>https://www.bilibili.com/video/BV1dipj6wEJW</link>
+      <guid isPermaLink="false">deals-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 05:04:18 GMT</pubDate>
+      <description>1. Supermaven：注册即用免信用卡，亚秒级低延迟代码补全，兼容主流IDE（值表：永久免费代码补全）
+2. Tavily AI：每月免信用卡赠 1,000 次搜索 API，设高校学生免费通道（值表：每月千次搜索API）
+3. Orshot：每月 100 次渲染 credits 免信用卡，送 50 AI credits（值表：每月百次渲染额度）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月10日赛博鸡蛋：OpenRouter免卡、Azure学生100刀</title>
+      <link>https://www.bilibili.com/video/BV12hpi6TEgm</link>
+      <guid isPermaLink="false">deals-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 04:49:58 GMT</pubDate>
+      <description>1. OpenRouter：15 个 :free 免费端点，免信用卡直调，每日 50 次免费（值表：15款免费模型）
+2. Microsoft：高校在读免信用卡，100 美元云额度 12 个月有效（值表：100美元云额度）
+3. 阿里云云工开物：中国高校在读认证，每 12 个月一张 300 元券（值表：300元学生券）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月9日赛博鸡蛋：OpenCode限免32模型、Copilot免卡</title>
+      <link>https://www.bilibili.com/video/BV1GLps6UEr1</link>
+      <guid isPermaLink="false">deals-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 04:47:23 GMT</pubDate>
+      <description>1. OpenCode：新增 Step 5 Preview Free 限免，总共 32 个免费模型端点；免绑卡（值表：32个免费端点）
+2. GitHub：每月 2,000 次补全 + 50 次对话，免信用卡（值表：每月2000次补全）
+3. Comfy Cloud：免信用卡送 5 次真实 GPU 运行，最长 30 分钟（值表：免费跑 5 次 GPU）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月8日赛博鸡蛋：硅基多模态免绑卡、CF每日推理</title>
+      <link>https://www.bilibili.com/video/BV1JNHX6KEeA</link>
+      <guid isPermaLink="false">deals-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 07:29:15 GMT</pubDate>
+      <description>1. 硅基流动：Embedding、OCR、语音与图像免费；注册即用（值表：多类模型免费）
+2. Cloudflare：每天免费 10,000 Neurons，UTC 零点重置；免信用卡（值表：每天免费推理）
+3. Cursor：免信用卡，含有限智能体请求与 Composer 访问（值表：Hobby 免费档）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月7日赛博鸡蛋：智谱免费、ElevenLabs首月1美元</title>
+      <link>https://www.bilibili.com/video/BV1ESHC65EQi</link>
+      <guid isPermaLink="false">deals-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 05:36:21 GMT</pubDate>
+      <description>1. 智谱 BigModel：GLM-4.7-Flash、4.6V-Flash 等免费；Batch 5折（值表：四类模型免费）
+2. ElevenLabs：首月 1 美元（至 10-18）；3万 credits 含声音克隆（值表：首月 1 美元）
+3. OpenCode：Space Bunny 结束限免转常规计费；仅剩 LongCat 限免（值表：规则变更避坑）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月6日赛博鸡蛋：智谱今晚截止、学生包每月 180 小时</title>
+      <link>https://www.bilibili.com/video/BV1UFpc6rEyH</link>
+      <guid isPermaLink="false">deals-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 04:55:56 GMT</pubDate>
+      <description>1. 智谱 BigModel：夜间 23:00–09:00 用 GLM-5.3-Flash，ZCode/AutoClaw 端不扣额度（值表：夜间不扣额度）
+2. 阶跃星辰：综合音频生成、音乐生成、实时语音、对话语音四款限免（值表：四款限时免费）
+3. GitHub：验证学生身份后 Copilot 高阶功能全开（值表：180 core hours）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+    <item>
+      <title>10月5日赛博鸡蛋：智谱双节最后48h、Qoder延期免费</title>
+      <link>https://www.bilibili.com/video/BV1tdHW6BE15</link>
+      <guid isPermaLink="false">deals-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 07:55:00 GMT</pubDate>
+      <description>1. DeepSeek：低峰时段全线半价，周末与法定节假日全天算低峰（值表：5 折）
+2. 智谱 BigModel：GLM-4.7-Flash 等一批模型输入输出免费，批量任务再五折（值表：0 元）
+3. GitHub：个人开发者零成本用，模型由系统自动选择（值表：2000 次/月）
+
+完整清单与官方入口：https://my.feishu.cn/docx/B4yCdmbASopMRrxSAr5cYsdNnGc</description>
+    </item>
+  </channel>
+</rss>
